@@ -5,11 +5,11 @@ aprovar a permissao de administrador e confirmar, sempre com script de reversao.
 
 ## Baixar
 
-**Versao atual: 1.30**
+**Versao atual: 1.31**
 
 [**Baixar o instalador (Instalar_Vexor_Optimizer.exe)**](https://github.com/eurodrigofernandes/vexor-optimizer/raw/main/Instalar_Vexor_Optimizer.exe)
 
-SHA-256: `a89e0203d2d09183f1b7a0879a748f8af0af689f4bb571702b80d32837e5daaa`
+SHA-256: `509bb7aeb6f7ecea8dae12f4dfc66fc9bd87d236aaae28e530fdbf37d15317b5`
 
 ## Instalar
 
