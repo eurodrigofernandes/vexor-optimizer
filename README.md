@@ -1,1 +1,23 @@
-# vexor-optimizer
+# Vexor Optimizer
+
+Otimizador e diagnostico para PCs gamer com Windows 10 e 11. A varredura so le o sistema; nada muda sem voce clicar,
+aprovar a permissao de administrador e confirmar, sempre com script de reversao.
+
+## Baixar
+
+**Versao atual: 1.26**
+
+[**Baixar o instalador (Instalar_Vexor_Optimizer.exe)**](https://github.com/eurodrigofernandes/vexor-optimizer/raw/main/Instalar_Vexor_Optimizer.exe)
+
+SHA-256: `7e3bc16a0505f51cb5a8519b25fdaede39d56d9f6edd98f9ff5332521af09484`
+
+## Instalar
+
+1. Execute o `Instalar_Vexor_Optimizer.exe` e aceite o aviso do Windows (UAC).
+2. O instalador nao e assinado digitalmente: se o SmartScreen avisar, clique em **Mais informacoes** > **Executar assim mesmo**.
+3. Entre com o usuario e a senha que voce recebeu. Na primeira vez, mande o codigo do PC (formato `XXXX-XXXX`) para quem te deu o acesso.
+
+## Atualizacoes
+
+Nao precisa baixar de novo: quando sai uma versao nova, o Vexor Optimizer avisa ao abrir e instala sozinho
+(menu Conta > Verificar atualizacoes tambem procura).
