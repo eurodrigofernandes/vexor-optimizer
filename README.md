@@ -9,7 +9,7 @@ aprovar a permissao de administrador e confirmar, sempre com script de reversao.
 
 [**Baixar o instalador (Instalar_Vexor_Optimizer.exe)**](https://github.com/eurodrigofernandes/vexor-optimizer/raw/main/Instalar_Vexor_Optimizer.exe)
 
-SHA-256: `b285437909a044ee4da539fa693e86ea9b6b3390ddb4797d1e9a801c74b7122a`
+SHA-256: `eeecf6baaaabbe887e0f3c88fb2934934487095f2d461b6d03cc199e161b70c3`
 
 ## Instalar
 
